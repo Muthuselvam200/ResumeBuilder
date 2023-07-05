@@ -41,16 +41,15 @@ Before running the application, make sure you have the following installed:
 
 The application should now be running at http://localhost:3000.
 
-
-## Live Demo
-
-The application is deployed on this site - https://resume-builderonline.netlify.app/
-
 ## Usage
 - Open a web browser and go to http://localhost:3000.
 - Fill in your personal details, education history, work experience, and skills in the provided input fields.
 - Preview the resume on the bottom of the screen. It will update dynamically as you enter information.
 - Once you're satisfied with the resume, click the "Generate PDF" button to download the resume as a PDF file.
+
+## Live Demo
+
+The application is deployed on this site - https://resume-builderonline.netlify.app/
 
 ## Tech stack
 
