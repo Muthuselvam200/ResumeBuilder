@@ -27,19 +27,16 @@ Before running the application, make sure you have the following installed:
 2. Navigate to the project directory:
 
    ```shell
-    
    cd resumeBuilder
 
 3. Install the dependencies:
 
    ```shell
-   
    npm install
 
 4. Start the application:
 
    ```shell
-   
    npm start
 
 The application should now be running at http://localhost:3000.
